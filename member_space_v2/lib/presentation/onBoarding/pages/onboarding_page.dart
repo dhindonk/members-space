@@ -6,7 +6,6 @@ import '../../../core/components/buttons.dart';
 import '../models/onboarding_model.dart';
 import '../widgets/onboarding_content.dart';
 import '../widgets/onboarding_indicator.dart';
-import '../widgets/skip_button.dart';
 
 class OnboardingPage extends StatefulWidget {
   OnboardingPage({super.key});
