@@ -1,3 +1,3 @@
-# p3_d
+# p3_Praktikum
 
 A new Flutter project.
