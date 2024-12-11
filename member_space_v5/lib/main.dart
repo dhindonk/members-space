@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart'; 
-import 'package:members_space_v4/presentation/splash_screen.dart';
+import 'package:members_space_v5/presentation/splash_screen.dart';
 import 'core/core.dart';
 
 void main() {
